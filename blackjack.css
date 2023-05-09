@@ -1,0 +1,58 @@
+* 
+{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+
+}
+
+body
+{
+    background-image: url("green_board_background.png");
+    background-size: cover;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    height: 100vh;
+    margin: 10px;
+    padding: 10px;
+}
+.center-container
+{
+    max-width: 90%;
+    margin: auto;
+}
+h1 {
+    color: goldenrod;
+    font-size: 50px;
+    margin-top: 20;
+    margin-bottom: 20;
+}
+p
+{
+    font-size: 25px;
+    color: whitesmoke;
+    margin-bottom: 20px;
+}
+
+.btn-container
+{
+                     
+   
+}
+.game-btns
+{
+  cursor: pointer;
+  margin: 2px;
+  margin-top: 0.7em;
+  padding: 0.9em 1.5em;
+  background-color: orange;
+  border: 1px solid whitesmoke;
+  border-radius: 0.5em;
+  color: green;
+  font-size:100%;
+  font-weight:bolder;
+  width: 150px;
+  margin-bottom: 2px;
+  margin-top: 2px;
+}
